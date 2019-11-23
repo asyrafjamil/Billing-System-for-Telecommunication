@@ -20,4 +20,4 @@ Output
 ![alt text](https://github.com/asyrafjamil/Billing-System-for-Telecommunication/blob/master/Output.png)
 
 Text File
-![alt text](https://github.com/asyrafjamil/Billing-System-for-Telecommunication/blob/master/Text%20File.png)
+![alt text](https://github.com/asyrafjamil/Billing-System-for-Telecommunication/blob/master/transaction.png)
