@@ -5,7 +5,7 @@ You need to have Dev-Cpp to run the system.
 Features:-
 
 1) Interactive interface for end-users.
-2) All transactions will saved to a text file. 
+2) All transactions will be saved to a transaction file. 
 
 
 Download digi.cpp for the code.
