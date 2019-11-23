@@ -13,11 +13,11 @@ Download digi.cpp for the code.
 Download digi.exe to run the system. 
 
 
-Main
+**Main**
 ![alt text](https://github.com/asyrafjamil/Billing-System-for-Telecommunication/blob/master/Main.png)
 
-Output
+**Output**
 ![alt text](https://github.com/asyrafjamil/Billing-System-for-Telecommunication/blob/master/Output.png)
 
-Transaction File
+**Transaction File**
 ![alt text](https://github.com/asyrafjamil/Billing-System-for-Telecommunication/blob/master/transaction.png)
