@@ -19,5 +19,5 @@ Main
 Output
 ![alt text](https://github.com/asyrafjamil/Billing-System-for-Telecommunication/blob/master/Output.png)
 
-Text File
+Transaction File
 ![alt text](https://github.com/asyrafjamil/Billing-System-for-Telecommunication/blob/master/transaction.png)
